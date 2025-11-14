@@ -1,3 +1,7 @@
+/*gcc udp_chat_server.c -o udp_server -lpthread
+gcc udp_chat_client.c -o udp_client -lpthread
+./udp_server*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
